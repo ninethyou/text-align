@@ -4,7 +4,7 @@ matplotlib
 scipy
 seaborn
 dgl
-sklearn
+scikit-learn
 bioinfokit
 requests
 tqdm
