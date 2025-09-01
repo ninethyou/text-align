@@ -1,7 +1,0 @@
-Dataset: enron
-Best AUC (benchmark): 67.02
-Contextual AUC: 89.85
-Structural AUC: 58.71
-Joint-Type AUC: 63.43
-Structure-Type AUC: 58.25
-Final Loss: 23.2474

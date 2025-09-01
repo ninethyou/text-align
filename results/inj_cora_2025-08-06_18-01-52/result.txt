@@ -1,7 +1,0 @@
-Dataset: inj_cora
-Best AUC (benchmark): 83.36
-Contextual AUC: 74.82
-Structural AUC: 95.11
-Joint-Type AUC: 57.56
-Structure-Type AUC: 77.05
-Final Loss: 8.7501

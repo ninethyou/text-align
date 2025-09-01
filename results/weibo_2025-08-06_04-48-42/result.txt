@@ -1,7 +1,0 @@
-Dataset: weibo
-Best AUC (benchmark): 73.38
-Contextual AUC: 71.79
-Structural AUC: 51.12
-Joint-Type AUC: 49.00
-Structure-Type AUC: 51.22
-Final Loss: 73.4401
