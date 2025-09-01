@@ -1,0 +1,7 @@
+Dataset: reddit
+Best AUC (benchmark): 60.23
+Contextual AUC: 58.54
+Structural AUC: 89.54
+Joint-Type AUC: 53.21
+Structure-Type AUC: 88.81
+Final Loss: 3154.7454
